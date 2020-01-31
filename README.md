@@ -9,7 +9,7 @@ Completed
 Please run Solution.java in com.singtel.assignment package to see the output
 
 ```diff
-Designing RESTFUL WEBSERVICE :
+Designing RESTFUL API :
 
 First, a REST resource to GET a list of Animals:
 http://{DOMAIN_NAME}/singtelassignment/rest/v1/animals
