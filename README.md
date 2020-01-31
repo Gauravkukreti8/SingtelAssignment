@@ -4,11 +4,9 @@
 Singtel-Java-Assignment - BONUS
 
 ## Assignment
- Packages 
- 
-Interface - com.singtel.BOinterface
-Models - com.singtel.model
-Main Assignment Class - com.singtel.assignment
+
+Completed
+Please run Solution.java in com.singtel.assignment package to see the output
 
 ```diff
 Designing RESTFUL WEBSERVICE :
@@ -28,12 +26,12 @@ A JSON respresentation of a response—GET animal from "name":
 ### Prerequisites
 
 ```
-JAVA JRE/JDK and STS(eclipse) IDE 
+JAVA 8 JRE/JDK and STS(eclipse) IDE 
 ```
 ### Installing
 
 ```
-STS IDE - import the Project as JAVA Project
+STS/eclipse IDE - import the Project as JAVA Project
 ```
 
  ## Running the tests
@@ -44,7 +42,7 @@ Run Solution.java
 
 ## Built With
 
-* [Eclipse IDE ]
+* [STS IDE ]
 
 
 ## Author
