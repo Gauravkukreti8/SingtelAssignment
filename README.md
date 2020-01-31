@@ -1,7 +1,7 @@
 # Singtel-Java-Assignment
 # Project Title
 
-Singtel-Java-Assignment - BONUS
+Singtel-Java-Assignment
 
 ## Assignment
 
