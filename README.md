@@ -4,6 +4,7 @@
 Singtel-Java-Assignment - BONUS
 
 ## Assignment
+ Packages 
  
 Interface - com.singtel.BOinterface
 Models - com.singtel.model
@@ -17,7 +18,7 @@ http://{DOMAIN_NAME}/animals
 Next, a REST resource to GET details of Animal with name (Example:Rooster):
 http://{DOMAIN_NAME}/animals/rooster
 
-Response:
+Response in JSON:
 
 A JSON respresentation of a response—GET animal from "name":
 {"animal":{"type":"bird","name":"rooster","swim":"I cannot swim","walk":"I am walking","sing":"Cluck, cluck","fly":"I cannot fly"}}
