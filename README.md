@@ -12,9 +12,9 @@ Please run Solution.java in com.singtel.assignment package to see the output
 Designing RESTFUL API :
 
 First, a REST resource to GET a list of Animals:
-http://{DOMAIN_NAME}/singtelassignment/rest/v1/animals
+http://{DOMAIN_URL}/singtelassignment/rest/v1/animals
 Next, a REST resource to GET details of Animal with name (Example:Rooster):
-http://{DOMAIN_NAME}/singtelassignment/rest/v1/animals/rooster
+http://{DOMAIN_URL}/singtelassignment/rest/v1/animals/rooster
 
 Response in JSON:
 
@@ -47,6 +47,6 @@ Run Solution.java
 
 ## Author
 
-***Gaurav **
+***Gaurav***
 
 
